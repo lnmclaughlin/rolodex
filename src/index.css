@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 body {
@@ -28,7 +27,6 @@ body {
   color: #0ccac4;
 }
 .search-box {
-  -webkit-appearance: none;
   border: none;
   outline: none;
   padding: 10px;
